@@ -28,3 +28,5 @@ Recommended trimming programs:
 - Trimmomatic
 - Scythe
 Project started 03-01-2013
+TODO: ask sequencing center about adapters
+Samples expected from sequencing core on 10-01-2013
